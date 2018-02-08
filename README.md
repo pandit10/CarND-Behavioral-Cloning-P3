@@ -93,4 +93,4 @@ A demonstration of the models can be found on the links below:
 
 ## Reflection
 
-This was an interesting project for me because we had to strongly focus on balancing the dataset appropriately to achieve the desired results. Along with this I learnt how to write optimized solutions for loading datasets in small constant batches of memory.
+This was an interesting project for me because I had to strongly focus on balancing the dataset appropriately to achieve the desired results. Along with this I learnt how to write optimized solutions for loading datasets in small constant batches of memory. Looking to finish other projects
